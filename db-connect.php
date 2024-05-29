@@ -1,10 +1,10 @@
 <?php 
 // Hostname
-$host = "student-db.cd4m4gcm286n.us-east-1.rds.amazonaws.com";
+$host = "";
 // Username
-$uname = "admin";
+$uname = "";
 // Password
-$pw = "Training123";
+$pw = "";
 // Database Name
 $dbname = "simple_attendance_db";
 
